@@ -9,7 +9,6 @@ As one of ABC Inc.'s most trusted Linux developers, you have been tasked with cr
 ## Project Objectives
 
 Demonstrate advanced shell scripting skills in a real-world scenario
-Applying the knowledge gained to reviewing and grading technical work submitted by your peers
 
 ## Project Tasks
 
