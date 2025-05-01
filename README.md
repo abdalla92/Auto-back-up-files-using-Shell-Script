@@ -16,6 +16,7 @@ Applying the knowledge gained to reviewing and grading technical work submitted 
 [Task 01]: Set two variables equal to the values of the first and second command line arguments, as follows:
               Set targetDirectory to the first command line argument
               Set destinationDirectory to the second command line argument
+              
 [Task 02]: Display the values of the two command-line arguments in the terminal.
 [Task 03]: Define a variable called currentTS as the current timestamp, expressed in seconds.
 [Task 04]: Define a variable called backupFileName to store the name of the archived file 
