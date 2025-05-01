@@ -1,3 +1,13 @@
 # Automatically back up files using Linux Shell Script
 
-As a lead Linux developer at ABC International Inc., one of the company's most trusted programmers, I have been assigned the responsibility of creating a script named `backup.sh`. This script will run daily and automatically back up any encrypted password files that have been updated in the past 24 hours.
+# Scenario
+
+Imagine that you are a lead Linux developer at the top-tech company ABC International Inc. ABC currently suffers from a huge bottleneck: each day, interns must painstakingly access encrypted password files on core servers and back up any files that were updated within the last 24 hours. This process introduces human error, lowers security, and takes an unreasonable amount of work.
+
+As one of ABC Inc.'s most trusted Linux developers, you have been tasked with creating a script called backup.sh which runs every day and automatically backs up any encrypted password files that have been updated in the past 24 hours.
+
+# Learning Objectives
+By completing this final project, you will:
+
+Demonstrate your advanced shell scripting skills in a real-world scenario
+Apply the knowledge you've gained to reviewing and grading technical work submtted by your peers
