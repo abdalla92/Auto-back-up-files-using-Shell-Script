@@ -6,11 +6,11 @@ Imagine that you are a lead Linux developer at the top-tech company ABC Internat
 
 As one of ABC Inc.'s most trusted Linux developers, you have been tasked with creating a script called backup.sh, which runs every day and automatically backs up any encrypted password files that have been updated in the past 24 hours.
 
-## Project Objectives
+## Objectives
 
-Demonstrate advanced shell scripting skills in a real-world scenario
+Demonstrating advanced shell scripting skills in a real-world scenario
 
-## Project Tasks
+## Requirments
 
 [Task 01]: Set two variables equal to the values of the first and second command line arguments, as follows:
               Set targetDirectory to the first command line argument
